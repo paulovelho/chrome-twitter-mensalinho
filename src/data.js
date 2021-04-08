@@ -1,0 +1,27 @@
+const mensalinhos = [
+
+"@5gu",
+"@analice",
+"@anavilarinno",
+"@brunafeia",
+"@cadefeministas",
+"@calu_barros",
+"@choracuica",
+"@cinefilo_k",
+"@delucca",
+"@dudu",
+"@estebantavares",
+"@exuliane",
+"@felipezando",
+"@guilerbe",
+"@jaderplanob",
+"@jessicambrosio",
+"@kallil_oliveira",
+"@mateusoliveirab",
+"@neydinhaaaa",
+"@osidius",
+"@pedrotrl",
+"@pppholanda",
+"@xuxanave",
+
+];

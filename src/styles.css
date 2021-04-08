@@ -1,0 +1,43 @@
+main {
+}
+
+.mensalinho {
+}
+
+.mensalinho .tooltip {
+  position: fixed;
+  font-size: 12px;
+  line-height: 20px;
+  padding: 5px;
+  background: white;
+  border: 1px solid #ccc;
+  visibility: hidden;
+  box-shadow: -2px 2px 5px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  transition:
+    opacity 0.3s,
+    visiblity 0s;
+}
+.r-ttdzmv .mensalinho {
+}
+.r-ttdzmv .mensalinho .tooltip {
+	display: none;
+}
+.mensalinho:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+.crime-eleitoral-container {
+	float: left;
+	border: 1px solid #000;
+	background-color: #cc0000;
+	margin-top: 20px;
+	width: 100%;
+}
+.crime-eleitoral {
+	color: #FFF;
+	float: left;
+	width: 100%;
+	padding: 10px;
+}
